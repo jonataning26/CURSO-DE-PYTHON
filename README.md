@@ -1,2 +1,2 @@
 # CURSO-DE-PYTHON
-convertirte en un programador junior sólido, analítico y efectivo
+convertirme en un programador sólido, analítico y efectivo capaz de resolver problemas del mundo real.
